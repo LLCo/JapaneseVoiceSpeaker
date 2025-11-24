@@ -1,0 +1,5 @@
+{
+  "name": "Nihongo Voice - Japanese TTS",
+  "description": "A high-quality Japanese Text-to-Speech application using the Gemini 2.5 Flash TTS model. Input Japanese text and listen to natural-sounding speech generation.",
+  "requestFramePermissions": []
+}
